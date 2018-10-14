@@ -2,7 +2,7 @@
 More than the laziness to write a 40 pages markdown document, exporting it as a PDF with local 
 images and GitHub styled markdown fills me with dread.  
 This weird walkthrough of exporting a markdown to PDF has been done just to 
-get the flexibilty in font stylings which I didn't get in the tools already
+get the flexibility in font stylings which I didn't get in the tools already
 available .
 
 ## Use
